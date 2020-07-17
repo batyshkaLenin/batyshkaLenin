@@ -1,3 +1,46 @@
 ### Hello, World 👋
 
-- 🔭 I’m currently working on [CleverCraft](https://www.clevercraft.net), there i’m developing JavaScript web applications using the React framework. During work in the company i’m acquired skills refactoring TypeScript applications using React Hooks, improved the performance of some parts of the application, mastered the work with Git submodules and began to work with CSS preprocessor - SCSS. Also developed several microservices with NodeJS.
+### Personal Data
+
+- **Place of Birth**: Petropavlovsk, Kazakhstan
+- **Address**: Novosibirsk, Russia
+- **Email**: [lenin at blur dot tech](emailto:lenin@blur.tech)
+- **Telegram**: [@batyshka_Lenin](https://t.me/batyshka_Lenin)
+
+### Work Experience
+
+- I’m currently working **JavaScript Developer** on [CleverCraft](https://www.clevercraft.net) since **July 2019**, there i’m developing JavaScript web applications using the React framework. During work in the company i’m acquired skills refactoring TypeScript applications using React Hooks, improved the performance of some parts of the application, mastered the work with Git submodules and began to work with CSS preprocessor - SCSS. Also developed several microservices with NodeJS.
+
+### Education
+
+- **2017-2021** Bachelor of Automation and Computer Engineering, **Novosibirsk State Technical University**, Novosibirsk 4th course student
+
+### Languages
+
+- Russian: Native
+- English: Basic
+
+### Computer Skills
+
+- **Advanced**: JavaScript (MERN Stack)
+- **Intermediate**: SQL, MongoDB, HTML, CSS, Docker, Git, Information Security
+- **Basic**: Go, Linux, LaTeX, Web-servers (nginx, Apache)
+
+### Activities
+
+- **Open Source**: small fixes in Epiphany web-browser and Commento service
+- **IT Community**: lecture on the Linux command line
+- **Blurred Education**: lecture about hackathons and JavaScript application development
+
+### Events
+
+- **2019** **TensorHack**, Hackathon in Tensor, Novosibirsk, Russia, **3rd place**.  
+Learned to work with web sockets and write API documentation.
+- **2019** **noCTF**, Competition organizer, Novosibirsk, Russia.  
+Worked with real Cisco-like equipment when setting up the network without documentation. Learned to follow the abstract technical specifications.
+- **2019** **Digital Breakthrough**, All-Russian hackathon, Kazan, Russia.  
+Got experience with Redux and building the app on Heroku. Became a participant in the event that fell into the **Guinness Book of Records**.
+
+### Interests
+
+I am interested in philosophy and physics, playing the guitar. My favourite music genre is rock. I fond of backend development and functional programming, as well as information security
