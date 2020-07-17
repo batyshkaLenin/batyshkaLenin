@@ -1,10 +1,5 @@
 ### Hello, World 👋
 
-### Personal Data
-
-- **Email**: [lenin at blur dot tech](emailto:lenin@blur.tech)
-- **Telegram**: [@batyshka_Lenin](https://t.me/batyshka_Lenin)
-
 ### Work Experience
 
 - I’m currently working **JavaScript Developer** on [CleverCraft](https://www.clevercraft.net) since **July 2019**, there i’m developing JavaScript web applications using the React framework. During work in the company i’m acquired skills refactoring TypeScript applications using React Hooks, improved the performance of some parts of the application, mastered the work with Git submodules and began to work with CSS preprocessor - SCSS. Also developed several microservices with NodeJS.
@@ -33,3 +28,9 @@ Learned to work with web sockets and write API documentation.
 Worked with real Cisco-like equipment when setting up the network without documentation. Learned to follow the abstract technical specifications.
 - **2019** **Digital Breakthrough**, All-Russian hackathon, Kazan, Russia.  
 Got experience with Redux and building the app on Heroku. Became a participant in the event that fell into the **Guinness Book of Records**.
+
+### Contacts
+
+- **Email**: [lenin at blur dot tech](emailto:lenin@blur.tech)
+- **Telegram**: [@batyshka_Lenin](https://t.me/batyshka_Lenin)
+- **LinkedIn**: [@alexandr-sidorenko](https://www.linkedin.com/in/alexandr-sidorenko/)
