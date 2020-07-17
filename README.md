@@ -2,8 +2,6 @@
 
 ### Personal Data
 
-- **Place of Birth**: Petropavlovsk, Kazakhstan
-- **Address**: Novosibirsk, Russia
 - **Email**: [lenin at blur dot tech](emailto:lenin@blur.tech)
 - **Telegram**: [@batyshka_Lenin](https://t.me/batyshka_Lenin)
 
@@ -14,11 +12,6 @@
 ### Education
 
 - **2017-2021** Bachelor of Automation and Computer Engineering, **Novosibirsk State Technical University**, Novosibirsk 4th course student
-
-### Languages
-
-- Russian: Native
-- English: Basic
 
 ### Computer Skills
 
@@ -40,7 +33,3 @@ Learned to work with web sockets and write API documentation.
 Worked with real Cisco-like equipment when setting up the network without documentation. Learned to follow the abstract technical specifications.
 - **2019** **Digital Breakthrough**, All-Russian hackathon, Kazan, Russia.  
 Got experience with Redux and building the app on Heroku. Became a participant in the event that fell into the **Guinness Book of Records**.
-
-### Interests
-
-I am interested in philosophy and physics, playing the guitar. My favourite music genre is rock. I fond of backend development and functional programming, as well as information security
