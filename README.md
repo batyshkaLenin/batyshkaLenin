@@ -11,7 +11,7 @@
 ### Computer Skills
 
 - **Advanced**: JavaScript (MERN Stack)
-- **Intermediate**: SQL, MongoDB, HTML, CSS, Docker, Git, Information Security
+- **Intermediate**: SQL, MongoDB, HTML, CSS, Docker, Information Security
 - **Basic**: Go, Linux, LaTeX, Web-servers (nginx, Apache)
 
 ### Activities
@@ -34,3 +34,4 @@ Got experience with Redux and building the app on Heroku. Became a participant i
 - **Email**: [lenin at blur dot tech](emailto:lenin@blur.tech)
 - **Telegram**: [@batyshka_Lenin](https://t.me/batyshka_Lenin)
 - **LinkedIn**: [@alexandr-sidorenko](https://www.linkedin.com/in/alexandr-sidorenko/)
+- **HeadHunter**: [Alexandr Sidorenko](https://hh.ru/resume/6700a5c7ff0594c2ba0039ed1f425a6c4a7771)
