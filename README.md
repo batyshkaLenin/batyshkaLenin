@@ -10,7 +10,7 @@
 
 ### Computer Skills
 
-- **Advanced**: JavaScript (MERN Stack)
+- **Advanced**: JavaScript/TypeScript (MERN Stack)
 - **Intermediate**: SQL, MongoDB, HTML, CSS, Docker, Information Security
 - **Basic**: Go, Linux, LaTeX, Web-servers (nginx, Apache)
 
