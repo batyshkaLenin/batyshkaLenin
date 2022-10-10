@@ -2,11 +2,12 @@
 
 ### Work Experience
 
-- I’m currently working **JavaScript Developer** on [CleverCraft](https://www.clevercraft.net) since **July 2019**, there i’m developing JavaScript web applications using the React framework. During work at company I've acquired skills refactoring TypeScript applications using React Hooks, improved the performance of some parts of the application, mastered the work with Git submodules and began to work with CSS preprocessor - SCSS. Also developed several microservices with NodeJS.
+- I’m currently working **NodeJS Developer** on [MyGig Technologies](https://mygig.ru/) since **December 2021**, there I'm developing of microservices in NodeJS. Working with RabbitMQ queues. Bank integrations. MongoDB query optimization.
+- **JavaScript Developer** on [CleverCraft](https://www.clevercraft.net) since **July 2019** to **December 2021**, there I'm developed JavaScript web applications using the React framework. During work at company I've acquired skills refactoring TypeScript applications using React Hooks, improved the performance of some parts of the application, mastered the work with Git submodules and began to work with CSS preprocessor - SCSS. Also developed several microservices with NodeJS.
 
 ### Education
 
-- **2017-2021** Bachelor of Automation and Computer Engineering, **Novosibirsk State Technical University**, Novosibirsk 4th course student
+- **2017-2021** Bachelor's degree, Automation and Computer Engineering, **Novosibirsk State Technical University**, Novosibirsk.
 
 ### Computer Skills
 
