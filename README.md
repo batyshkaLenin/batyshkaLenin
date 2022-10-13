@@ -2,8 +2,8 @@
 
 ### Work Experience
 
-- I’m currently working **NodeJS Developer** on [MyGig Technologies](https://mygig.ru/) since **December 2021**, there I'm developing of microservices in NodeJS. Working with RabbitMQ queues. Bank integrations. MongoDB query optimization.
-- **JavaScript Developer** on [CleverCraft](https://www.clevercraft.net) since **July 2019** to **December 2021**, there I'm developed JavaScript web applications using the React framework. During work at company I've acquired skills refactoring TypeScript applications using React Hooks, improved the performance of some parts of the application, mastered the work with Git submodules and began to work with CSS preprocessor - SCSS. Also developed several microservices with NodeJS.
+- I’m currently working **NodeJS Developer** on [MyGig Technologies](https://mygig.ru/) since **December 2021**, there I'm developing of microservices in NodeJS. Working with RabbitMQ queues. Improved logging, documentation and stability of bank integration. MongoDB query optimization.
+- **JavaScript Developer** on [CleverCraft](https://www.clevercraft.net) since **July 2019** to **December 2021**, there I'm developed JavaScript web applications using the React framework. Acquired skills refactoring TypeScript applications. Improved the performance of some parts of the application. Also developed several microservices with NodeJS. Maintainer of two main projects: document management and browser-based video chat.
 
 ### Education
 
@@ -17,8 +17,9 @@
 
 ### Activities
 
-- **Open Source**: small fixes in Epiphany web-browser and Commento service
-- **IT Community**: lecture on the Linux command line
+- **[Razrabs Media](https://github.com/razrabs-media/journal)**: organized the work of the Open Source community. Improved the project's SEO and PageSpeed Insights.
+- **Open Source**: small fixes in Epiphany web-browser and Commento service,
+- **IT Community**: сonducted workshops, conducted technical reviews of reports, and distributed and promoted events.
 - **Blurred Education**: lecture about hackathons and JavaScript application development
 
 ### Events
