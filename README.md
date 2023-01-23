@@ -25,7 +25,7 @@
 ### Events
 
 - **2019** **TensorHack**, Hackathon in Tensor, Novosibirsk, Russia, **3rd place**.  
-Learned to work with web sockets and write API documentation.
+Learned to work with [web sockets](https://github.com/blurtech/everwriter-backend) and write API documentation.
 - **2019** **noCTF**, Competition organizer, Novosibirsk, Russia.  
 Worked with real Cisco-like equipment when setting up the network without documentation. Learned to follow the abstract technical specifications.
 - **2019** **Digital Breakthrough**, All-Russian hackathon, Kazan, Russia.  
